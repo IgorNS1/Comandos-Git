@@ -34,10 +34,11 @@
 * Passo 3 (Se tiver outros usários mexendo no código): Puxar alterações feitas por outros usuários - `git pull`
 * Passo 4: Enviar para o repositório Github - `git push origin main`
 
-## Sintaxe e Códigos Git
+## Sintaxe e Comandos Git
 
 * `git branch -M "<nome>"`
 * `git remote add <nome> <url>`
 * `git push <nome remote> <branch>`
 * `git checkout <branch>`
+* `git status`
 * `git remote -v` - Mostra o nome e url do repositório Github vinculado.
